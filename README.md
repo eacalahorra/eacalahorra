@@ -4,7 +4,7 @@
 
 ---
 
-### A hobbyist. [EN]
+### I'm a hobbyist. [EN]
 
 - I do projects I like, find interesting or need.
 
@@ -16,7 +16,7 @@
 
 - If you see **TypeScript** code, you should know... it was *fully vibe-coded...*
 
-### Un aficionat [CAT]
+### Soc un aficionat [CAT]
 
 - Faig projectes que m'agraden, que trobo interessants o que necessito.
   
@@ -28,7 +28,7 @@
 
 - Si veieu codi **TypeScript**, hauríeu de saber... que estava *completament vibe-coded...*
 
-### Un hobbista [IT]
+### Sono un hobbista [IT]
 
 - Mi occupo di progetti che mi piacciono, che trovo interessanti o di cui ho bisogno.
 
