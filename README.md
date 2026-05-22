@@ -22,7 +22,7 @@
   
 - Actualment estic treballant en **a anunciar**
 
-- Actualment estic aprenent **Automatització SQLite i infraestructura Flutter**
+- Actualment estic aprenent **automatització SQLite i infraestructura Flutter**
 
 - No sóc un **professional**, tots els projectes aquí són codi d'afició, no tinc estudis formals en Desenvolupament o Programació. Faig el que puc.
 
@@ -34,7 +34,7 @@
 
 - Attualmente sto lavorando a **ad essere annunciato**
 
-- Sto attualmente imparando **automatizazione SQLite e infrastruttura Flutter**
+- Sto attualmente imparando **automazione SQLite e infrastruttura Flutter**
 
 - Non sono un **professionista**, tutti i progetti qui sono codice amatoriale, non ho una formazione formale in sviluppo o programmazione. Faccio quello che posso.
 
