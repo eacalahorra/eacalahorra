@@ -8,9 +8,9 @@
 
 - I do projects I like, find interesting or need.
 
-- I'm currently working on **ULA Period Tracker, a Free Private Period tracker for iOS. (Android TBD)**
+- I'm currently working on **To Be Announced**
 
-- I'm currently learning **MVVM-based development and Data Storage Best Practices for apps.**
+- I'm currently learning **SQLite Automation and Flutter Infrastructure**
 
 - I am not a **professional**, all projects here are hobby code, I am not formally educated in Development or Programming. I do what I can.
 
@@ -20,9 +20,9 @@
 
 - Faig projectes que m'agraden, que trobo interessants o que necessito.
   
-- Actualment estic treballant en **ULA Period Tracker, un rastrejador de menstruació privat gratuït per a iOS. (Android per determinar)**
+- Actualment estic treballant en **a anunciar**
 
-- Actualment estic aprenent **Pràctiques recomanades de desenvolupament basat en MVVM i emmagatzematge de dades per a aplicacions.**
+- Actualment estic aprenent **Automatització SQLite i infraestructura Flutter**
 
 - No sóc un **professional**, tots els projectes aquí són codi d'afició, no tinc estudis formals en Desenvolupament o Programació. Faig el que puc.
 
@@ -32,9 +32,9 @@
 
 - Mi occupo di progetti che mi piacciono, che trovo interessanti o di cui ho bisogno.
 
-- Attualmente sto lavorando a **ULA Period Tracker, un tracker mestruale privato e gratuito per iOS. (Android da definire)**
+- Attualmente sto lavorando a **ad essere annunciato**
 
-- Sto attualmente imparando **lo sviluppo basato su MVVM e le best practice per l'archiviazione dei dati per le app.**
+- Sto attualmente imparando **automatizazione SQLite e infrastruttura Flutter**
 
 - Non sono un **professionista**, tutti i progetti qui sono codice amatoriale, non ho una formazione formale in sviluppo o programmazione. Faccio quello che posso.
 
