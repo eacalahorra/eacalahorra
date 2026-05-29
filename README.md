@@ -8,7 +8,7 @@
 
 - I do projects I like, find interesting or need.
 
-- I'm currently working on **Locutus**
+- I'm currently working on **LocutusAAC**
 
 - I'm currently learning **SQLite Automation and Kotlin**
 
